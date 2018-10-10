@@ -1,19 +1,19 @@
 # プログラミング演習II 第1回
-* 学籍番号：1764xxx
-* 氏名：横浜太郎
+* 学籍番号：1764014
+* 氏名：石毛大貴
 * 所属：情報工学EP
 
 
 # 課題の説明
 
 ## HelloWorld
-ソースファイル：HelloWorld.java
+ソースファイル：J1_3.java
 
 ### プログラムの説明
 * "Hello, world!"を表示する`println`だけのシンプルなプログラム
 
 ### 実行結果
-![HelloWorld.javaの実行結果](screenshot00.png)
+![HelloWorld.javaの実行結果](screenshot00.PNG)
 
 ### 考察
 * C言語の`printf`とは異なり，改行コードを末尾に書かなくても改行されている
@@ -28,7 +28,7 @@
 
 * 通常の実行結果：
 
-![J1_1.javaの実行結果1](screenshot01-01.png)
+![J1_1.javaの実行結果1](screenshot01-01.PNG)
 
 * (x+y)の括弧をなくした場合：
 
